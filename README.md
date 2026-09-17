@@ -19,8 +19,6 @@ I am a third-year BS Computer Science student at the **University of San Carlos*
 
 I am interested in data engineering, particularly building reliable data pipelines, organizing imperfect datasets, validating data quality, and preparing data for analysis and machine-learning systems.
 
-I am currently preparing for data engineering internship opportunities.
-
 ## Current Work
 
 ### Cebuano-English Review Data Pipeline
@@ -36,6 +34,7 @@ My undergraduate thesis examines dissatisfaction in Cebuano-English code-switche
 ### Research Annotation Platform
 
 I am developing a private system for creating an auditable human-labeled research dataset.
+
 
 - Built with Next.js, TypeScript, PostgreSQL, and Supabase
 - Supports private annotation queues, role-based access, and adjudication

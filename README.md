@@ -2,7 +2,7 @@
 
 Third-year Computer Science student at the University of San Carlos in Cebu.
 
-I like building useful little tools and learning how software, data, and machine learning fit together. Right now, most of my time goes into my undergraduate thesis on Cebuano-English food-delivery reviews.
+I like building useful little tools and learning how software, data, and machine learning fit together. Right now, most of my time goes into my undergraduate thesis on complaint detection in Cebuano-English food-delivery reviews.
 
 ### What I'm working on
 

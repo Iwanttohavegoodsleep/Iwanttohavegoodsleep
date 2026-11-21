@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/snowy-night.png" />
-    <img src="./assets/snowy-night.gif" width="480" alt="A quiet snowy path at night, with falling snow under a street lamp." />
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/snowy-night-wide.png" />
+    <img src="./assets/snowy-night-wide.gif" width="100%" alt="A quiet snowy path at night, with falling snow under a street lamp." />
   </picture>
   <img src="./assets/handle-glow.svg" width="100%" alt="Iwanttohavegoodsleep — Python / C# / NLP" />
 </p>

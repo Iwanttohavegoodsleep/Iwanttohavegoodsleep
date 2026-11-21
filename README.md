@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="./assets/sleepless-city.png" width="100%" alt="A rainy pixel-art city seen from a late-night desk, with a sleeping cat beside the monitor." />
+  <a href="https://opengameart.org/content/cyberpunk-street-environment">
+    <picture>
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cyberpunk-street-ansimuz.png" />
+      <img src="./assets/cyberpunk-street-ansimuz.gif" width="100%" alt="Cyberpunk Street — original pixel artwork by Luis Zuno (@ansimuz), animated as a slow parallax city panorama." />
+    </picture>
+  </a>
   <img src="./assets/handle-glow.svg" width="100%" alt="Iwanttohavegoodsleep — Python / C# / NLP" />
 </p>
 
@@ -32,3 +37,7 @@
 </p>
 
 <img src="./assets/scanline.svg" width="100%" alt="" />
+
+<p align="center">
+  <sub>Banner: <a href="https://opengameart.org/content/cyberpunk-street-environment">Cyberpunk Street</a> by <a href="https://ansimuz.itch.io/">Luis Zuno / @ansimuz</a> · <a href="./ART_CREDITS.md">CC BY 3.0</a></sub>
+</p>

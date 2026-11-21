@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="https://www.reddit.com/r/gifs/comments/t5jncn/sleepless_night/">
-    <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sleepless-night-painterkira.png" />
-      <img src="./assets/sleepless-night-painterkira.gif" width="100%" alt="Sleepless Night by PainterKira — a cozy moonlit bedroom with warm lamplight and gently moving leaves." />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="./assets/snowy-night.png" />
+    <img src="./assets/snowy-night.gif" width="480" alt="A quiet snowy path at night, with falling snow under a street lamp." />
+  </picture>
   <img src="./assets/handle-glow.svg" width="100%" alt="Iwanttohavegoodsleep — Python / C# / NLP" />
 </p>
 
@@ -31,6 +29,3 @@
 
 <img src="./assets/scanline.svg" width="100%" alt="" />
 
-<p align="center">
-  <sub>Banner: <a href="https://www.reddit.com/r/gifs/comments/t5jncn/sleepless_night/">Sleepless Night</a> by <a href="https://www.reddit.com/user/PainterKira/">PainterKira</a> · <a href="./ART_CREDITS.md">art credit</a></sub>
-</p>

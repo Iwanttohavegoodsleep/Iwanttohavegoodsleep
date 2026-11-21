@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://opengameart.org/content/cyberpunk-street-environment">
+  <a href="https://www.reddit.com/r/gifs/comments/t5jncn/sleepless_night/">
     <picture>
-      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/cyberpunk-street-ansimuz.png" />
-      <img src="./assets/cyberpunk-street-ansimuz.gif" width="100%" alt="Cyberpunk Street — original pixel artwork by Luis Zuno (@ansimuz), animated as a slow parallax city panorama." />
+      <source media="(prefers-reduced-motion: reduce)" srcset="./assets/sleepless-night-painterkira.png" />
+      <img src="./assets/sleepless-night-painterkira.gif" width="100%" alt="Sleepless Night by PainterKira — a cozy moonlit bedroom with warm lamplight and gently moving leaves." />
     </picture>
   </a>
   <img src="./assets/handle-glow.svg" width="100%" alt="Iwanttohavegoodsleep — Python / C# / NLP" />
 </p>
 
 <p align="center">
-  <samp>CS student at USC, Cebu. Usually writing Python or C#.</samp>
+  <samp>CS student at USC, Cebu.</samp>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <img src="./assets/scanline.svg" width="100%" alt="" />
 
-<h3 align="center"><samp>the usual tools</samp></h3>
+<h3 align="center"><samp>tools i use</samp></h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cs,ts,js,c,dart,pytorch&amp;theme=dark" height="44" alt="Python, C#, TypeScript, JavaScript, C, Dart, PyTorch" />
@@ -29,15 +29,8 @@
   <img src="https://skillicons.dev/icons?i=dotnet,nextjs,flutter,sqlite,git,linux,vim&amp;theme=dark" height="44" alt=".NET, Next.js, Flutter, SQLite, Git, Linux, Vim" />
 </p>
 
-<br/>
-
-<p align="center">
-  Working on <a href="https://github.com/Iwanttohavegoodsleep/thesis-work">Cebuano-English complaint detection</a> for our thesis.<br/>
-  Built <a href="https://hubas.vercel.app/">Hubas</a> with Team MangoSpace for NASA Space Apps.
-</p>
-
 <img src="./assets/scanline.svg" width="100%" alt="" />
 
 <p align="center">
-  <sub>Banner: <a href="https://opengameart.org/content/cyberpunk-street-environment">Cyberpunk Street</a> by <a href="https://ansimuz.itch.io/">Luis Zuno / @ansimuz</a> · <a href="./ART_CREDITS.md">CC BY 3.0</a></sub>
+  <sub>Banner: <a href="https://www.reddit.com/r/gifs/comments/t5jncn/sleepless_night/">Sleepless Night</a> by <a href="https://www.reddit.com/user/PainterKira/">PainterKira</a> · <a href="./ART_CREDITS.md">art credit</a></sub>
 </p>

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/night-coast.svg" width="100%" alt="Jose — Iwanttohavegoodsleep. A quiet coast at night." />
+  <img src="./assets/night-coast.svg" width="100%" alt="Iwanttohavegoodsleep. A quiet coast at night." />
 </p>
 
 <p align="center">

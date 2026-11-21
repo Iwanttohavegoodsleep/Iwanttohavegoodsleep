@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="130" viewBox="0 0 1000 130" role="img" aria-labelledby="title desc">
+<title id="title">Iwanttohavegoodsleep</title><desc id="desc">Animated cyan and violet lettering with a blinking terminal cursor.</desc>
+<defs>
+<linearGradient id="ink" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#76e3f4"/><stop offset=".48" stop-color="#c3d9fb"/><stop offset="1" stop-color="#ada6ed"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#0d1117" stop-opacity="0"/><stop offset=".5" stop-color="#4f8ca6"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+<filter id="halo" x="-.2" y="-.8" width="1.4" height="2.6"><feGaussianBlur stdDeviation="2"/></filter>
+</defs>
+<path d="M40 8H960" stroke="url(#edge)" opacity=".5"/>
+<text x="500" y="66" text-anchor="middle" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="43" font-weight="700" letter-spacing="1" fill="#5bbfd6" opacity=".25" filter="url(#halo)">Iwanttohavegoodsleep</text>
+<text x="500" y="66" text-anchor="middle" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="43" font-weight="700" letter-spacing="1" fill="url(#ink)">Iwanttohavegoodsleep</text>
+<rect x="781" y="31" width="3" height="41" fill="#76e3f4"><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.44;.45;.94;1" dur="1.25s" repeatCount="indefinite"/></rect>
+<text x="500" y="104" text-anchor="middle" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="12" letter-spacing="3" fill="#8eabc0">PYTHON / C# / NLP</text>
+</svg>

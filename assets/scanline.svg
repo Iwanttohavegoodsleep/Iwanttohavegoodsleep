@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="30" viewBox="0 0 1000 30" role="img" aria-label="Decorative moving light">
+<defs><linearGradient id="line"><stop stop-color="#0d1117" stop-opacity="0"/><stop offset=".5" stop-color="#344a60"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient></defs>
+<path d="M80 15H920" stroke="url(#line)"/>
+<path d="M80 15H920" stroke="#76d9ee" stroke-width="2" stroke-dasharray="38 802" opacity=".8"><animate attributeName="stroke-dashoffset" from="0" to="-840" dur="5s" repeatCount="indefinite"/></path>
+<circle cx="500" cy="15" r="2.5" fill="#a3a8eb"/>
+</svg>

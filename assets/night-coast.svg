@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-labelledby="title desc">
+<title id="title">Jose — Iwanttohavegoodsleep</title>
+<desc id="desc">A quiet pixel-art coast at night, with a crescent moon and light on the water.</desc>
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#131d35"/><stop offset="1" stop-color="#24374b"/></linearGradient>
+<linearGradient id="fade"><stop stop-color="#0d1117"/><stop offset=".75" stop-color="#0d1117"/><stop offset="1" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+<clipPath id="frame"><rect width="1000" height="280" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1000" height="280" fill="#0d1117"/>
+<rect x="516" width="484" height="280" fill="url(#sky)"/>
+<g fill="#a8c4cf" opacity=".7"><rect x="599" y="27" width="2" height="2"/><rect x="653" y="59" width="2" height="2"/><rect x="696" y="24" width="2" height="2"/><rect x="749" y="41" width="2" height="2"/><rect x="792" y="18" width="2" height="2"/><rect x="925" y="35" width="2" height="2"/><rect x="955" y="82" width="2" height="2"/><rect x="571" y="81" width="2" height="2"/><rect x="834" y="73" width="2" height="2"/><rect x="713" y="102" width="2" height="2"/><rect x="620" y="122" width="2" height="2"/><rect x="975" y="129" width="2" height="2"/><rect x="881" y="17" width="2" height="2"/><rect x="767" y="120" width="2" height="2"/></g>
+<g fill="#e7deba" shape-rendering="crispEdges">
+<path d="M858 46h32v8h8v8h8v32h-8v8h-8v8h-32v-8h-8v-8h-8V62h8v-8h8z"/>
+<path d="M875 38h30v8h10v10h8v40h-8v10h-10v8h-15v-8h-10v-8h-8V88h-8V58h8V48h3z" fill="#19283d"/>
+</g>
+<g shape-rendering="crispEdges">
+<path d="M555 168h35v-12h25v-10h25v10h24v14h25v15h28v18H555z" fill="#273f50"/>
+<path d="M714 175h23v-14h21v-16h24v-14h28v14h27v14h23v15h30v28H714z" fill="#2a4655"/>
+<rect x="516" y="187" width="484" height="93" fill="#152e3a"/>
+<rect x="640" y="193" width="113" height="2" fill="#3a5961"/>
+<rect x="802" y="193" width="105" height="2" fill="#58777a"/>
+<rect x="851" y="202" width="30" height="3" fill="#b0b999" opacity=".65"/>
+<rect x="830" y="214" width="61" height="3" fill="#a8b79a" opacity=".45"/>
+<rect x="850" y="225" width="56" height="3" fill="#7c9f96" opacity=".4"/>
+<rect x="811" y="240" width="85" height="3" fill="#618e8c" opacity=".4"/>
+<rect x="831" y="253" width="103" height="3" fill="#527c7d" opacity=".35"/>
+<rect x="638" y="216" width="62" height="2" fill="#335b66"/>
+<rect x="716" y="235" width="49" height="2" fill="#335b66"/>
+<rect x="947" y="221" width="53" height="2" fill="#335b66"/>
+<rect x="961" y="257" width="39" height="2" fill="#335b66"/>
+<path d="M540 236h25v-9h28v-9h25v-8h28v-10h23v-10h27v-11h21v-12h25v-9h27v10h17v17h21v15h28v14h22v14h31v15h24v27H540z" fill="#10232c"/>
+<path d="M545 254h66v-9h51v-8h36v-7h30v9h32v12h44v10h47v19H545z" fill="#0c1b23"/>
+<path d="M959 280v-65h5v-18h6v-14h6v14h6v18h5v65z" fill="#0b1922"/>
+<rect x="969" y="207" width="8" height="7" fill="#d2b987"/>
+<rect x="967" y="217" width="12" height="3" fill="#5c5345"/>
+</g>
+<rect x="0" width="680" height="280" fill="url(#fade)"/>
+<path d="M40 39h17m-17 0v17" fill="none" stroke="#78c8b8" stroke-width="2"/>
+<text x="42" y="83" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="13" letter-spacing="2.2" fill="#78c8b8">Iwanttohavegoodsleep</text>
+<text x="37" y="162" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="72" font-weight="700" letter-spacing="-4" fill="#e7edf2">jose<tspan fill="#78c8b8">.</tspan></text>
+<text x="42" y="204" font-family="ui-monospace, 'DejaVu Sans Mono', monospace" font-size="15" fill="#94a4b4">computer science / cebu, ph</text>
+<path d="M42 238h62" stroke="#78c8b8" stroke-width="2"/>
+<circle cx="115" cy="238" r="2" fill="#40565c"/>
+<circle cx="126" cy="238" r="2" fill="#40565c"/>
+</g>
+<rect x=".5" y=".5" width="999" height="279" rx="11.5" fill="none" stroke="#26333c"/>
+</svg>
